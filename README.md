@@ -29,7 +29,7 @@ The `save_data_to_file` function saves the fetched data into a text file named `
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
-   Edit the script automate_script.py to include your actual login credentials and adjust URLs as necessary.
+   Edit the script main.py to include your actual login credentials and adjust URLs as necessary.
 
 3. Run the script:
    ```bash
