@@ -23,7 +23,7 @@ The `save_data_to_file` function saves the fetched data into a text file named `
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/riubotin/Python-Auto-Login-and-Data-Retrieval.git
    cd repository
    
 2. Install the required libraries:
