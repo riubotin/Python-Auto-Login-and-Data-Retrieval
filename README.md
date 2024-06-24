@@ -24,7 +24,7 @@ The `save_data_to_file` function saves the fetched data into a text file named `
 1. Clone the repository:
    ```bash
    git clone https://github.com/riubotin/Python-Auto-Login-and-Data-Retrieval.git
-   cd repository
+   cd Python-Auto-Login-and-Data-Retrieval
    
 2. Install the required libraries:
    ```bash
@@ -33,6 +33,6 @@ The `save_data_to_file` function saves the fetched data into a text file named `
 
 3. Run the script:
    ```bash
-   python automate_script.py
+   python main.py
 
   By following these instructions, you can effectively automate interactions with websites for various practical purposes.
